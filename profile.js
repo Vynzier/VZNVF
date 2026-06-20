@@ -30,10 +30,6 @@ document.getElementById("profile").innerHTML = `
         <button>Facebook</button>
     </a>
 
-    <a href="${member.discord}">
-        <button>Discord</button>
-    </a>
-
     <a href="${member.tiktok}">
         <button>TikTok</button>
     </a>
